@@ -25,6 +25,7 @@ What we need to do:
     Implement a messaging system for users to communicate with each other.
 
 Technologies:
+
   Backend development: Use a programming language such as Python or Java to build the server-side logic of the app. This would include making the API that connects the front end and the back end and handle the data flow.
 
     Database management: Need a database management system to store and retrieve users' personal information and match users based on their persona. We have decided to use (1) MongoDB and (2 - backup) Firebase:
@@ -37,7 +38,7 @@ Technologies:
 
   Machine learning: Need to use machine learning algorithms to analyze users' Spotify listening data and determine their personality type or persona. Use libraries such as sci-kit-learn or Tensorflow for this.
 
-  Natural Language Processing: Use NLP techniques to analyze song lyrics and artist bios to help determine the user's persona. Use libraries such as NLTK or spaCy for this.
+      Natural Language Processing: Use NLP techniques to analyze song lyrics and artist bios to help determine the user's persona. Use libraries such as NLTK or spaCy for this.
 
   Frontend development: Need to use a programming language to build the user interface of the app. We have decided to use (1) Flutter and (2 - backup) React Native:
   We want it to be able to work across Android and iOS platforms
