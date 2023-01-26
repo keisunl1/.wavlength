@@ -19,10 +19,14 @@ We will be using the following softwares/APIs:
 
 
 What we need to do:
-    Develop a system for analyzing users' Spotify listening data to determine their personality type or persona. This could involve using natural language processing techniques to analyze song lyrics and artist bios, as well as machine learning algorithms to identify patterns in listening behavior.
-    Design a user interface for the app that allows users to input their Spotify information and view their persona. You could also include a feature for users to edit their persona if they disagree with the analysis.
-    Build a database to store users' persona information and match users based on their persona. You could use a matching algorithm that takes into account both personality and interests.
-    Implement a messaging system for users to communicate with each other.
+   
+   1. Develop a system for analyzing users' Spotify listening data to determine their personality type or persona. This could involve using natural language processing techniques to analyze song lyrics and artist bios, as well as machine learning algorithms to identify patterns in listening behavior.
+   
+   2. Design a user interface for the app that allows users to input their Spotify information and view their persona. You could also include a feature for users to edit their persona if they disagree with the analysis.
+   
+   3. Build a database to store users' persona information and match users based on their persona. You could use a matching algorithm that takes into account both personality and interests.
+   
+   4. Implement a messaging system for users to communicate with each other.
 
 Technologies:
 
