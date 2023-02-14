@@ -1,0 +1,12 @@
+This README covers all aspects of the backend framework, Firebase, for the use of the application .wavlength. 
+
+- SWE Keisun Luc has control of the .wavlength Firebase, with access being provided to the rest of team (in progress) 
+
+- Use cases for Firebase include:
+1. Core - In use
+2. Authentication - In use 
+3. Data Management 
+4. Privacy and Security
+
+- Authentication is set up, but not connected to frontend framework Flutter yet. 
+
