@@ -1,6 +1,6 @@
 This README covers all aspects of the backend framework, Firebase, for the use of the application .wavlength. 
 
-- SWE Keisun Luc has control of the .wavlength Firebase, with access being provided to the rest of team (in progress) 
+- SWE Keisun Luc has main authorization of the .wavlength Firebase, with access being provided to the rest of team
 
 - Use cases for Firebase include:
 1. Core - In use
@@ -9,4 +9,10 @@ This README covers all aspects of the backend framework, Firebase, for the use o
 4. Privacy and Security
 
 - Authentication is set up, but not connected to frontend framework Flutter yet. 
+
+- Cloud hosting will require additional integration with current full framework. 
+
+- Firebase integation with Jira successful.
+
+- Firebase integration with Slack (optional)
 
