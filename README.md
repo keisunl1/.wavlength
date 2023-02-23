@@ -7,7 +7,7 @@ We will be using the following softwares/APIs:
 
 2. Flutter - Frontend software
 
-3. MongoDB - Backend software 
+3. Firebase - Backend software 
 
 4. Django - Web API
 
